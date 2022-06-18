@@ -5,7 +5,7 @@ export default makeStyles(() => ({
     display: 'flex',
     height: '100%',
   },
-  toobar: {
+  toolbar: {
     height: '70px',
   },
   content: {
