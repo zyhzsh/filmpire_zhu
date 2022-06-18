@@ -9,7 +9,7 @@ const Movie = ({ movie, i }) => {
   return (
     <Grid
       item
-      sx={12}
+      xs={12}
       sm={6}
       md={4}
       lg={3}

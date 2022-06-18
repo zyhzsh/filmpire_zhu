@@ -42,7 +42,6 @@ export default {
   'tv movie': tvMovie,
   war,
   western,
-
   popular,
   'top rated': topRated,
   upcoming,
